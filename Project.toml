@@ -2,3 +2,14 @@ name = "ConsumerDataCCPA"
 uuid = "12018062-9aa4-48c8-93eb-d3ca555a7ea1"
 authors = ["Ilja Kantorovitch <iljakant@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+CompEcon = "1375f997-1772-542d-b6fa-a8ee39124556"
+NLsolve = "2774e3e8-f4cf-5e23-947b-6d7e65073b56"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
+QuantEcon = "fcd29c91-0bd7-5a09-975d-7ac3f643a60c"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+Setfield = "efcf1570-3423-57d1-acb7-fd33fddbac46"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
