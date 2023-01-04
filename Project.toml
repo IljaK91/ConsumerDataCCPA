@@ -1,0 +1,4 @@
+name = "ConsumerDataCCPA"
+uuid = "12018062-9aa4-48c8-93eb-d3ca555a7ea1"
+authors = ["Ilja Kantorovitch <iljakant@gmail.com>"]
+version = "0.1.0"
